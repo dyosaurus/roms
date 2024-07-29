@@ -13,6 +13,4 @@ faq_items:
     content: "No-Intro and Redump are groups that catalog hashes of dumped games for different systems. If a link has 'No-Intro' or 'Redump' in the name, it is a collection of the currently best-available ROMs for the system. These should be your go-to links if what you are looking for is not in the Popular Games page."
   - title: "How can I contribute to the megathread?"
     content: "If you wish to contribute content on this thread, join our [Matrix room](https://matrix.to/#/#romz:matrix.org) or join the [Matrix space](https://matrix.to/#/#roms-space:matrix.org)."
-  - title: "Can I cancel my plan?"
-    content: "Donec rutrum congue leo eget maleassco nseecte turuada. Vestib ulum amet dui. Sed porttitor le ctus nibh. Vivamus suscipit malesuada. Lorem ipsum."
 ---
