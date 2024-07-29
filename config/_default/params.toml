@@ -1,0 +1,73 @@
+#################### default parameters ################################
+# favicon
+favicon = "images/favicon.png"
+# logo
+logo = "images/logo.png"
+logo_darkmode = "images/logo-darkmode.png"
+# use `px` or `x` with logo_width, example: "100px".
+# Note: logo_width is not work with .svg file
+logo_width = "160px"
+logo_height = "32px"
+# if logo_webp set false, will not generate WEBP version of logo | default is true
+logo_webp = true
+# logo text will only show when logo is missing.
+logo_text = "Roms Megathread"
+# contact form action
+contact_form_action = "#" # contact form works with [https://airform.io/] or [https://formspree.io]
+# google tag manager, see https://developers.google.com/tag-manager/
+google_tag_manager = "" # example: G-XXXXXXXXXX
+google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
+# custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
+custom_script = ""
+# copyright
+theme_copyright = false
+copyright = "© Copyright 2024 /r/Roms Community"
+
+# Table of Contents 
+tableofcontents = true
+
+# Preloader
+[preloader]
+enable = true
+preloader = "" # use jpg, png, svg or gif format.
+
+# Navigation button
+[[navigation_button]]
+enable = false
+label = "Changelog"
+link = "changelog/"
+
+[[navigation_button]]
+enable = true
+label = "Contact"
+link = "our-communities/matrix/"
+
+# search - https://github.com/gethugothemes/hugo-modules/tree/master/search
+[search]
+enable = true
+primary_color = "#222"
+include_all_sections = true
+show_image = false
+
+# seo meta data for OpenGraph / Twitter Card
+[metadata]
+keywords = ["Megathread", "ROMs", "Nintendo ROMs"]
+description = "Your one-stop-shop for all things ROMs"
+author = "r-roms"
+image = ""
+
+
+# site verifications
+[site_verification]
+google = ""   # Your verification code
+bing = ""     # Your verification code
+baidu = ""    # Your verification code
+facebook = "" # Your verification code
+mastodon = "" # Your verification code
+
+# cookies
+[cookies]
+enable = true
+expire_days = 60
+content = "This site does not use cookies and doesn't track you."
+button = "I Accept"
