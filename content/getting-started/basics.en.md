@@ -9,7 +9,7 @@ weight: 1
 
 **ROMs** are digital copies of game cartridges or discs. They allow you to play retro games on modern devices.
 {{<card-cta-wrapper>}}
-{{<card-cta title=`Our favourite ROMs.` image="images/illustrations/illustration-1.png" label=`Explore ROMs` link="/emulators">}}
+{{<card-cta title=`Our favourite ROMs.` image="images/illustrations/illustration-1.png" label=`Explore ROMs` link="/roms/popular/">}}
 {{</card-cta-wrapper>}}
 **Emulators** are software programs that mimic the hardware of classic gaming consoles, making it possible to run ROMs on your computer, smartphone, or other devices.
 
