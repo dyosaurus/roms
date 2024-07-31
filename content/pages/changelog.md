@@ -1,7 +1,7 @@
 ---
 title: "Changelog"
 meta_title: ""
-description: "consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt dolore magna aliquyam erat, sed diam voluptua. At vero eos et ustoLorem ipsum dolor"
+description: "An easy way to keep track of changes on the Megathread"
 layout: "changelog"
 draft: true
 
