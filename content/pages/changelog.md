@@ -9,8 +9,8 @@ draft: true
 changelog_list:
   - date: "Aug 1,2024"
     version: "v5.0.0"
-    status: "Update Site"
-    status_value: "Updated Site"
+    status: "New Site"
+    status_value: "Added"
     content: "
     *   Release completely new version of Megathread
     "
