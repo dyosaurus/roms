@@ -13,4 +13,5 @@ changelog_list:
     status_value: "Updated Site"
     content: "
     *   Release completely new version of Megathread
+    "
 ---
