@@ -1,8 +1,8 @@
 ---
 title: "Frequently asked questions"
-subtitle: "Regular Questions 📣"
+subtitle: "Answers to commonly asked Questions 📣"
 meta_title: ""
-description: "Donec rutrum congue leo eget malesuada. Sed porttitor porta. Vivamus suscit tortor eget felis porttitor volutpat. Lorem ipsum dolor sit amet"
+description: "If your question is not answered in the FAQ, check out the related page for the topic. If it's also not there join our Matrix room to ask your question directly."
 layout: "faq"
 draft: false
 
