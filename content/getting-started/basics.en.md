@@ -78,8 +78,6 @@ For other basic tips and tricks check the [FAQ](/faq/)
 
 ## Setting up your emulator
 
-Step 4: Setting Up Your Emulator
-
 Once you have your emulator and ROMs, follow these general steps to get started:
 
 1. Install the Emulator: Follow the instructions on the emulator’s official website to download and install the software.
