@@ -70,4 +70,4 @@ mastodon = "" # Your verification code
 enable = true
 expire_days = 60
 content = "This site does not use cookies and doesn't track you."
-button = "I Accept"
+button = "Understood"
