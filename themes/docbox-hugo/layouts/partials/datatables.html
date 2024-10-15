@@ -1,0 +1,18 @@
+<!-- Include jQuery -->
+<script type="text/javascript" charset="utf8" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<!-- Include DataTables CSS -->
+<link rel="stylesheet" type="text/css" href="//cdn.datatables.net/2.1.8/css/dataTables.dataTables.min.css">
+
+<!-- Include DataTables JS -->
+<script type="text/javascript" charset="utf8" src="//cdn.datatables.net/2.1.8/js/dataTables.min.js"></script>
+
+
+<!-- Initialize DataTable -->
+<script>
+  $(document).ready(function() {
+    let table = new DataTable('.datatable', {
+      pageLength: 100
+    });
+  });
+</script>

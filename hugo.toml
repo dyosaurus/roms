@@ -79,6 +79,10 @@ maxAge = "720h"
 [markup.goldmark.renderer]
 unsafe = true
 
+[markup.goldmark.parser.attribute]
+title = true
+block = true
+
 [markup.highlight]
 style = 'monokailight' # see https://xyproto.github.io/splash/docs/all.html
 
