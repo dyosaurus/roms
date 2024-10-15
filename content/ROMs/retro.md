@@ -31,7 +31,6 @@ weight: 5
 | Sega - Game Gear | [Link](https://myrient.erista.me/files/No-Intro/Sega%20-%20Game%20Gear/) |
 | Sega - Master System - Mark III | [Link](https://myrient.erista.me/files/No-Intro/Sega%20-%20Master%20System%20-%20Mark%20III/) |
 | Sega - Mega Drive - Genesis | [Link](https://myrient.erista.me/files/No-Intro/Sega%20-%20Mega%20Drive%20-%20Genesis/) |
-{class="datatable"}
 
 |**Internet Archive (No-Intro)**||
 | ------ | ------ |
