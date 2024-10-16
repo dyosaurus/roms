@@ -32,7 +32,6 @@ weight: 5
 | Sega - Master System - Mark III | [Link](https://myrient.erista.me/files/No-Intro/Sega%20-%20Master%20System%20-%20Mark%20III/) |
 | Sega - Mega Drive - Genesis | [Link](https://myrient.erista.me/files/No-Intro/Sega%20-%20Mega%20Drive%20-%20Genesis/) |
 
-
 |**Internet Archive (No-Intro)**||
 | ------ | ------ |
 | Atari - 2600 | [Link](https://archive.org/download/ni-roms/roms/Atari%20-%202600.zip/) [(Alt)](https://archive.org/download/nointro.atari-2600) |
