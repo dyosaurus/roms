@@ -81,4 +81,3 @@ weight: 4
 | Redump IBM PC Compatibles (X) | [Link](https://archive.org/download/redump_pc_X) |
 | Redump IBM PC Compatibles (Y) | [Link](https://archive.org/download/redump_pc_Y) |
 | Redump IBM PC Compatibles (Z) | [Link](https://archive.org/download/redump_pc_Z) |
-{class=datatable}
