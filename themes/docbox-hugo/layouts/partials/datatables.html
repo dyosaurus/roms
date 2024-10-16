@@ -7,6 +7,11 @@
 <!-- Include DataTables JS -->
 <script type="text/javascript" charset="utf8" src="//cdn.datatables.net/2.1.8/js/dataTables.min.js"></script>
 
+<style>
+div.dt-container select.dt-input {
+  padding-right: calc(1.2ch * var(--char-length, 3));
+}
+</style>
 
 <!-- Initialize DataTable -->
 <script>
@@ -14,10 +19,27 @@
     let table = new DataTable('.datatable', {
       pageLength: 100
     });
+
+    function adjustPadding(selectElement) {
+      let selectedText = selectElement.options[selectElement.selectedIndex].text;
+      let textLength = selectedText.length;
+
+      selectElement.style.setProperty('--char-length', textLength);
+    }
+
+    $('.dt-input').each(function() {
+      adjustPadding(this);
+
+      $(this).on('change', function() {
+        adjustPadding(this);
+      });
+    });
   });
 </script>
 
-<!-- 
+
+
+<!--
 Usage:
 Adding {class="datatable"} under the table will initialize the DataTable.
 -->
