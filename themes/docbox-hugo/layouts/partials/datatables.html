@@ -27,7 +27,7 @@ div.dt-container select.dt-input {
       selectElement.style.setProperty('--char-length', textLength);
     }
 
-    $('.dt-input').each(function() {
+    $('select.dt-input').each(function() {
       adjustPadding(this);
 
       $(this).on('change', function() {
@@ -36,8 +36,6 @@ div.dt-container select.dt-input {
     });
   });
 </script>
-
-
 
 <!--
 Usage:

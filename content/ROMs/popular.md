@@ -22,7 +22,6 @@ If you are using real hardware, use [Dolphin Emulator](https://dolphin-emu.org/)
 | Metroid Prime 3 (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Metroid%20Prime%203%20-%20Corruption%20(USA).zip) | [Download](https://archive.org/download/wii_rvz_usa_p2/wii_rvz_usa/Metroid%20Prime%203%20-%20Corruption%20%28USA%29.rvz) |
 
 
-
 ## Mario
 
 |**Title**|**Myrient**|**Internet Archive**|
